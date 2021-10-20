@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #dfe5f0;
+}
+.img{
+    height: 70px;
+}
+
+
+
+.mt-10{
+    margin-top: 10px;
+}
+.carousel-item{
+    padding: 20px 30px;
+    background-color: lightgray;
+
+}
+.bg{
+    background-color: #dfe5f0;
+
+}
+@media (min-width: 576px){
+.jumbotron {
+     padding: 16px; 
+}
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+
+.textbg{
+    color: rgb(155, 46, 113);
+}
+.img-thumbnail {
+    padding: 2.25rem;
+}
+
+.cardmain{
+}
+
+.text-orange{
+    color: rgb(238, 255, 0);
+}
